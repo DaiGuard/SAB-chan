@@ -1,6 +1,8 @@
 # SAB-chan
 
-## To-Do
+---
 
-[ ] ローパスフィルタの結果を確認する
-[ ] 一定周波数で値を取得する処理を書く
+### To-Do
+
+* [ ] Low-Pass filter class add
+* [ ] get to constant frequency imu data
